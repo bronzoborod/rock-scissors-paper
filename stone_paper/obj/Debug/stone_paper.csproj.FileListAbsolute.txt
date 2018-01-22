@@ -1,0 +1,7 @@
+E:\project\c#\stone_paper\stone_paper\bin\Debug\stone_paper.exe.config
+E:\project\c#\stone_paper\stone_paper\bin\Debug\stone_paper.exe
+E:\project\c#\stone_paper\stone_paper\bin\Debug\stone_paper.pdb
+E:\project\c#\stone_paper\stone_paper\obj\Debug\stone_paper.csprojResolveAssemblyReference.cache
+E:\project\c#\stone_paper\stone_paper\obj\Debug\stone_paper.csproj.CoreCompileInputs.cache
+E:\project\c#\stone_paper\stone_paper\obj\Debug\stone_paper.exe
+E:\project\c#\stone_paper\stone_paper\obj\Debug\stone_paper.pdb
